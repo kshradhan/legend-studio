@@ -1,5 +1,20 @@
 # @finos/legend-studio
 
+## 0.1.2
+
+### Patch Changes
+
+- [#181](https://github.com/finos/legend-studio/pull/181) [`1deb5ab`](https://github.com/finos/legend-studio/commit/1deb5ab5b398c5da55bc482695457804f8407be8) Thanks [@hardikmaheshwari](https://github.com/hardikmaheshwari)! - add quoteIdentifiers support to database connection in studio text mode
+
+* [#187](https://github.com/finos/legend-studio/pull/187) [`cbccdc0`](https://github.com/finos/legend-studio/commit/cbccdc0fcb81cf873d50a9d41b04054a6efbf5fd) Thanks [@MauricioUyaguari](https://github.com/MauricioUyaguari)! - Use meta::legend::service::metamodel::Service for service classifierPath.
+
+- [#183](https://github.com/finos/legend-studio/pull/183) [`1ace102`](https://github.com/finos/legend-studio/commit/1ace102d50364645ec5d9efdbde2d4ca778f0544) Thanks [@akphi](https://github.com/akphi)! - Add support for Snowflake Public authentication strategy
+
+- Updated dependencies [[`1ace102`](https://github.com/finos/legend-studio/commit/1ace102d50364645ec5d9efdbde2d4ca778f0544), [`46a6c4a`](https://github.com/finos/legend-studio/commit/46a6c4a761e6a8b7f1291e574524fd85e7124b08), [`1ace102`](https://github.com/finos/legend-studio/commit/1ace102d50364645ec5d9efdbde2d4ca778f0544)]:
+  - @finos/legend-studio-components@0.0.11
+  - @finos/legend-studio-shared@0.0.9
+  - @finos/legend-studio-network@0.0.11
+
 ## 0.1.1
 
 ### Patch Changes
